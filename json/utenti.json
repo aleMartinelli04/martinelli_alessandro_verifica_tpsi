@@ -1,0 +1,25 @@
+{
+  "$schema": "schema.json",
+  "utenti": [
+    {
+      "nome": "Angelo",
+      "eta": 25
+    },
+    {
+      "nome": "Francesca",
+      "eta": 22
+    },
+    {
+      "nome": "Luigi",
+      "eta": 23
+    },
+    {
+      "nome": "Pamela",
+      "eta": 21
+    },
+    {
+      "nome": "Riccardo",
+      "eta": 24
+    }
+  ]
+}
